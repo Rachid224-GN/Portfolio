@@ -1,7 +1,7 @@
 ## Portfolio – Rachid
 
 Portfolio personnel développé en **HTML, CSS et JavaScript**.  
-Il présente mon profil, mes compétences et mes projets en informatique.
+Je présente mon profil, mes compétences et mes projets en informatique.
 
 ## Technologies utilisées
 - HTML5
