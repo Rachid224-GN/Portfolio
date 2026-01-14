@@ -1,57 +1,57 @@
-// Liste de tes projets
+// Liste de Mes projets
 const projects = [
   {
-    title: "SecureShare",
-    desc: "Application web de transfert de fichiers chiffrés (Flask + JS).",
-    img: "images/project-secureshare.png",
-    link: "https://github.com/tonpseudo/SecureShare"
+    title: "Mon CV",
+    desc: "Mon CV personnel que j'ai fait à la base de & HTML, CSS &  --Etudiant à la recherche d'un stage--",
+    img: "images/cv.png",
+    link: "https://rachid224-gn.github.io/cv-web/"
   },
   {
-    title: "Firewall Analyzer",
-    desc: "Outil d'analyse de logs de pare-feu avec visualisation.",
-    img: "images/project2.png",
-    link: "https://github.com/tonpseudo/firewall-analyzer"
+    title: "App CHAT EN COMMMUN",
+    desc: "Ce projet consistais à la création d'un chat en commun. celle-ci devrai s'authentifier auprès d'un serveur afin de récupérer un token de connexion.",
+    img: "images/chat.png",
+    link: "https://github.com/Rachid224-GN/Chat/"
   },
   {
-    title: "Password Strength Checker",
-    desc: "Application web qui évalue la robustesse des mots de passe.",
-    img: "images/project3.png",
+    title: "Snake Game — Android / Java",
+    desc: "Ce projet consiste en une application Android simple mais fonctionnelle de jeu du serpent.",
+    img: "images/snake.png",
     link: "https://github.com/tonpseudo/password-checker"
   },
   {
-    title: "PhishDetect",
-    desc: "Détecteur d'emails de phishing via analyse de texte et DNS.",
-    img: "images/project4.png",
+    title: "Stéganographie - Appli",
+    desc: "La stéganographie consiste à cacher des informations secrètes dans des supports à priori classiques afin que personne ne puisse détecter la présence de l'information cachée.",
+    img: "images/steganoe.png",
     link: "https://github.com/tonpseudo/phishdetect"
   },
   {
-    title: "Log Inspector",
-    desc: "Analyseur de logs Apache pour détecter des attaques XSS/SQLi.",
-    img: "images/project5.png",
+    title: "Appli - Client/Serveur-java",
+    desc: "Ce projet consiste à implémenter une communication bidirectionnelle entre un client et un serveur utilisant le langage Java.",
+    img: "images/Serveur.jpeg",
     link: "https://github.com/tonpseudo/log-inspector"
   },
   {
-    title: "Network Mapper",
-    desc: "Scanner réseau en Python utilisant sockets et multithreading.",
-    img: "images/project6.png",
+    title: "Projet Commerce - POO",
+    desc: "ce projet consiste à gerer les relations entre le client , l'entreprise et l'entrepôt de façon à etre capable à contrôler les produits , les composants et les commandes & en C++.",
+    img: "images/Poo.png",
     link: "https://github.com/tonpseudo/network-mapper"
   },
   {
-    title: "File Integrity Monitor",
-    desc: "Surveille les modifications de fichiers système sensibles.",
-    img: "images/project7.png",
+    title: "Azure - déploiement",
+    desc: "j'ai développé un site web statique qui interagit exclusivement avec des fonctions Azure pour permettre: le telechargement, l'affichage et le redimensionnement des images vers un conteneur de stockage Azure.",
+    img: "images/Azure.png",
     link: "https://github.com/tonpseudo/file-integrity-monitor"
   },
   {
-    title: "Security Dashboard",
-    desc: "Dashboard de supervision avec alertes Wazuh personnalisées.",
-    img: "images/project8.png",
+    title: "Appli ~ Messenger Familial",
+    desc: "c'est une application de chat familial que je suis entrain de réaliser en ce moment, mais reste des concepts à mettre en place",
+    img: "images/photo.jpg",
     link: "https://github.com/tonpseudo/security-dashboard"
   },
   {
-    title: "SecureChat",
-    desc: "Messagerie chiffrée de bout en bout (WebSocket + AES).",
-    img: "images/project9.png",
+    title: "Projet à Venir",
+    desc: "En cours de realisation par Rachid.",
+    img: "images/projet.jpg",
     link: "https://github.com/tonpseudo/securechat"
   },
 ];
