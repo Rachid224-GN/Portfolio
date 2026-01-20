@@ -46,7 +46,7 @@ const projects = [
     title: "Jeu du Serpent — Conception Web",
     desc: "Jeu du serpent développé en JavaScript dans un contexte de conception web. Gestion des mouvements, collisions et du score avec une interface interactive.",
     img: "images/jeu.png",
-    link: "https://github.com/Rachid224-GN/jeu"
+    link: "https://rachid224-gn.github.io/jeu/"
   },
   {
     title: "App signalisation - Architecture",
@@ -55,16 +55,22 @@ const projects = [
     link: "https://github.com/Rachid224-GN/Arm"
   },
   {
+    title: "CLI Password Manager with AES-256 and SHA-256",
+    desc: "Application de gestion de mots de passe en ligne de commande (CLI) développée dans le cadre du cours Sécurité des Réseaux et du Web.Le projet met en œuvre des mécanismes cryptographiques modernes (SHA-256, PBKDF2, AES-256)",
+    img: "images/cli.png",
+    link: "https://github.com/Rachid224-GN/cli_sha256"
+  },
+  {
     title: "Appli ~ Messenger Familial",
     desc: "c'est une application de chat familial que je suis entrain de réaliser en ce moment, mais reste des concepts à mettre en place",
-    img: "images/photo.jpg",
-    link: "https://github.com/"
+    img: "images/mobile.png",
+    link: "https://github.com/Rachid224-GN"
   },
   {
     title: "Projet à Venir",
     desc: "En cours de realisation par Rachid.",
     img: "images/projet.jpg",
-    link: "https://github.com/"
+    link: "https://github.com/Rachid224-GN"
   },
 
 ];
